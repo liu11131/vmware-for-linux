@@ -35,4 +35,4 @@ sudo ln -s /lib/x86_64-linux-gnu/libz.so.1 /usr/lib/vmware/lib/libz.so.1/libz.so
 - ### 解决问题一
 
   Unable to change virtual machine power state: Failed to power on '/mnt/data/vm/win10/Windows 10 and later x64.vmx
-
+![image](https://github.com/liu11131/vmware-for-linux/blob/main/map/image-20241119115405790.png)
